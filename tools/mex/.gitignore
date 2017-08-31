@@ -1,0 +1,12 @@
+# Don't track temporary files.
+*~
+*.swp
+*.swn
+*.swo
+
+# The compiled mex files shouldn't be saved as well.
+*.mexa64
+*.mexw64
+
+# I don't know what this fortran file is.
+fort.6
